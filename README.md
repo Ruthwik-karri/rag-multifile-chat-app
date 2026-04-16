@@ -1,4 +1,4 @@
-# 🚀 RAG Multi-File Chat App
+<img width="1899" height="915" alt="image" src="https://github.com/user-attachments/assets/a6c45a76-b229-4144-97e7-7edbd31b9409" /># 🚀 RAG Multi-File Chat App
 
 A production-style **Retrieval-Augmented Generation (RAG)** system that allows users to upload multiple documents and perform intelligent question answering using **FastAPI, React, LangChain, FAISS, Hugging Face embeddings, and Groq LLM**.
 
@@ -99,6 +99,9 @@ rag-multifile-chat-app/
 ```
 
 ---
+
+
+
 
 ## ⚙️ Setup Instructions
 
