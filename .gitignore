@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.env
+backend/.env
+node_modules/
+build/
+dist/
+backend/storage/uploads/
+backend/storage/faiss_index/
+backend/storage/file_registry.json
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+.DS_Store
+Thumbs.db
